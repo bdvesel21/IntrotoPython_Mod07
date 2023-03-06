@@ -125,6 +125,6 @@ _Figure 8: Output in Pycharm_
 _Figure 9: Output in Command Prompt_
 ![image](https://user-images.githubusercontent.com/94942326/223216931-88c03c7c-f086-4cb5-bae8-2f11b3238d30.png) 
 
-Conclusion
+**Conclusion**
 
 This week’s assignment was slightly more difficult because we had to start the code on our own and assimilate knowledge from not only the textbook and lectures, but what we could research online about the topics. I didn’t have many wrong turns in the code this week not working, because I was modifying code examples from Randall Root’s notes and the internet. If anything, my most common mistake is forgetting to put the print strings in quotations and forgetting colons after certain commands like try or else. Luckily, Python is very good at explaining what I missed on those occasions. As I obtain more experience writing Python, I hope those little errors go away and I move on to trying to debug bigger issues with my syntax. 
